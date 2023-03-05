@@ -8,7 +8,7 @@ comboBoxID.addEventListener('change', async () => {
     if (comboBoxID.checked) {
         // Call Background Function startExt()
         chrome.runtime.sendMessage({"msg":'start',"link":urlLink.value}); 
-        alert("Checkbox is checked.. "+urlLink.value);
+        //alert("Checkbox is checked.. "+urlLink.value);
         console.log("Checkbox is checked..",urlLink.value);
       } else {
         //alert("Checkbox is not checked..");
