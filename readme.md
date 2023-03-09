@@ -11,4 +11,7 @@ how to install chrome extension in developer mode, read the manual here [here](h
     - [ ] Other ...
 
 # Dev
-Chrome Extensions: Manifest V3    
+Chrome Extensions: Manifest V3   
+
+
+add v2
